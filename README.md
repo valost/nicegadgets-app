@@ -16,9 +16,13 @@ Lastly, the app features both light and dark themes, which can be toggled by the
 
 # Dependencies
 Node v14.21.3
+
 NPM 6.14.18
+
 react-router-dom
+
 react-swipeable
+
 lodash.debounce
 
 # Installing
