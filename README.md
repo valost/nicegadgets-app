@@ -27,13 +27,20 @@ lodash.debounce
 
 # Installing
 Fork and clone this repository
+
 Run npm install in your terminal
+
 Run npm start
 
 # Troubleshooting
 For common issues, ensure that:
 
 You are using the correct Node.js version (14.21.3).
-All dependencies are correctly installed by running npm install.
+
+The main dependencies are correctly installed by running npm install.
+
+If you need to install additional libraries, you can do so by running npm install <library-name> (e.g., npm install react-router-dom).
+
 The development server can be started using npm start without errors.
+
 If you encounter any issues or need assistance, feel free to reach out to me at valostrovska@gmail.com.
